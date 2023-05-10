@@ -1,0 +1,8 @@
+[27-Dec-2022 17:30:30 UTC] PHP Warning:  Undefined array key "Input" in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 58
+[27-Dec-2022 17:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 91
+[27-Dec-2022 17:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 95
+[27-Dec-2022 17:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 101
+[27-Dec-2022 17:32:03 UTC] PHP Warning:  Undefined array key "Input" in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 58
+[27-Dec-2022 17:32:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 91
+[27-Dec-2022 17:32:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 95
+[27-Dec-2022 17:32:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ciresbio/public_html/procat.cires2biot.pt/v1/edit/edit.php on line 101
